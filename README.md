@@ -17,7 +17,8 @@ I am a motivated Computer Science student at **Pharos University in Alexandria**
 - 🌱 **Learning & Improving**: Advanced Transformers and Prompt Engineering.
 - 👯 **Open to Collaboration**: Innovative AI projects and Open Source contributions.
 - 💬 **Ask me about**: Computer Vision, Sentiment Analysis, and OOP in Java/Python.
-- 📫 **Connect with me**: [LinkedIn](https://linkedin.com/in/ahmed-ali-71b3801a3) | [Email](mailto:a7medmo7amed580@gmail.com)
+- 📫 **Connect with me**: <a href="https://linkedin.com/in/ahmed-ali-71b3801a3" target="_blank">LinkedIn</a>
+ | [Email](mailto:a7medmo7amed580@gmail.com)
 
 ---
 
