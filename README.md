@@ -77,6 +77,6 @@ I am a motivated Computer Science student at **Pharos University in Alexandria**
 
 <p align="center">
   <i>"Always striving to build software that makes a difference."</i> <br>
-  <b>Ahmed Mohamed Ahmed Ali</b>
+  <b>Ahmed Ali</b>
 </p>
 
